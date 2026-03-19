@@ -140,8 +140,8 @@ You'll need accounts and API keys for:
 #### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/notramm/
-cd ai-website-builder-fullstack-PERN
+git clone https://github.com/notramm/Zen---AI-website-builder.git
+cd zen---ai-website-builder
 ```
 
 #### 2. Install Backend Dependencies
@@ -675,10 +675,10 @@ This project is licensed under the ISC License.
 
 ## 👨‍💻 Author
 
-**Alok Kumar**
+**Ram Muduli**
 
 - GitHub: [@notramm](https://github.com/notramm)
-- Repository: [Zen AI Website Builder](https://github.com/notramm)
+- Repository: [Zen AI Website Builder](https://github.com/notramm/Zen---AI-website-builder.git)
 
 ---
 
@@ -699,7 +699,7 @@ This project is licensed under the ISC License.
 If you have any questions or need help, please:
 
 1. Check the [documentation](#-api-documentation)
-2. Search existing [issues](https://github.com/notramm/issue)
+2. Search existing [issues](https://github.com/notramm/Zen---AI-website-builder/issues)
 3. Open a new issue if needed
 
 ---

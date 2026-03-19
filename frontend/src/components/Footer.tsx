@@ -57,7 +57,7 @@ const Footer = () => {
           <Link to="/" className="hover:text-amber-400 transition">
             Terms of Service
           </Link>
-          <a href="https://github.com/iamalok123/ai-website-builder-fullstack-PERN" target="_blank" rel="noopener noreferrer" className="hover:text-amber-400 transition">
+          <a href="https://github.com/notramm/Zen---AI-website-builder.git" target="_blank" rel="noopener noreferrer" className="hover:text-amber-400 transition">
             GitHub
           </a>
         </div>
