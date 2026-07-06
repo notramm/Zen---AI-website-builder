@@ -69,7 +69,7 @@ export const makeRevision = async (req: Request, res: Response) => {
 
         // Enhance user prompt
         const promptEnhanceResponce = await openai.chat.completions.create({
-            model: "google/gemma-4-26b-a4b-it:free",
+            model: "poolside/laguna-m.1:free",
             messages: [
                 {
                     role: "system",
@@ -112,7 +112,7 @@ export const makeRevision = async (req: Request, res: Response) => {
 
         // Generate website code
         const codeGenerationResponse = await openai.chat.completions.create({
-            model: "google/gemma-4-26b-a4b-it:free",
+            model: "poolside/laguna-m.1:free",
             messages: [
                 {
                     role: "system",
